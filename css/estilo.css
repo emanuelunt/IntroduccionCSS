@@ -1,0 +1,61 @@
+/* h1{
+    color:blue;
+}
+
+p {
+    color: green;
+}
+
+h2{
+    color:red;
+}   */
+
+
+
+/*   Aca va el comentario */
+
+body{
+
+   /*  background-color: black;*/ 
+   background-image: url(../img/fondo-chico.jpg);
+   background-repeat: no-repeat;
+   background-size: 800px 800px;
+   background-position: center center;
+   background-attachment: fixed;
+}
+
+
+
+
+
+
+
+
+h1, h2,h3, h4,h5  {
+    color:#FE2E2E;
+}
+
+div p{
+    color: red;
+}
+
+div article p{
+    color: orange;
+}
+
+.color-amarillo{
+    color: yellow;
+}
+
+.color-rojo{
+    color: red;
+}
+
+.color-azul{
+    color:blue;
+    }
+
+
+.tamanio-fuente{
+    font-size: 25px;
+}
